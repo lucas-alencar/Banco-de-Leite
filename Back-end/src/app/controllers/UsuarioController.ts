@@ -86,6 +86,10 @@ class UsuarioController {
     }
   }
 
+  static async gerarCookie(req:Request, res:Response){
+
+  }
+
 }
 
 export default UsuarioController;

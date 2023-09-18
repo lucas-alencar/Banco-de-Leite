@@ -26,13 +26,13 @@
     }
 
     .width-img{
-        width:62%;
+        width:65%;
     }
     .custom-form{
         display: flex;
         flex-direction: column;
         justify-content: center; /* Centraliza verticalmente os itens */
         align-items: center; /* Centraliza horizontalmente os itens */
-        gap: 4rem; /* Espaçamento maior entre os itens */
+        gap: 3rem; /* Espaçamento maior entre os itens */
     }
 </style>
